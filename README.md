@@ -1,7 +1,7 @@
 # multifractal_hic
 Python routines to compute the multifractal spectrum of a Hi--C map
 
-This project contains two scripts.
+This project contains two scripts and a sample dataset (a Hi--C map from chromosome 19 in mouse embryonic stem cells).
 
 The first script, "spectrum.py", numerically computes the partition function <img src="https://render.githubusercontent.com/render/math?math=Z(q,\epsilon)"> from a given Hi--C map. The syntax is
 
